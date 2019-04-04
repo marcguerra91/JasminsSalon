@@ -1,0 +1,51 @@
+#footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    padding: 15px 0 4px;
+    background-color: #1F2833;
+    text-align: center;
+  }
+  .footer-menu{
+    font-family: 'Cabin', sans-serif;
+    font-size: 100%;
+    display: block;
+    border-bottom: 1px solid white;
+  }
+  .footer-menu li{
+      display: inline-block;
+      padding: 0 40px 15px;
+  }
+  .footer-menu li a{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 5px 20px 5px;
+
+  }
+  .footer-menu li a:hover, .footer-menu li a:active{
+    transition: color 0.3s linear;
+    color:red;
+}
+.copyWrite{
+    color: white;
+    display: block;
+    font-size: 11px;
+    font-family: 'Cabin', sans-serif;
+}
+.copyWrite li{
+    display: inline-block;
+    margin: 15px 40px 0 0;
+}
+.copyWrite li a{
+    color: white;
+    text-align: center;
+    text-decoration: none;
+}
+.copyWrite li a:hover{
+    transition: color 0.3s linear;
+    color:red;
+}

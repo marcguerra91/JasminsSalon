@@ -1,0 +1,13 @@
+h1{
+    font-size: 100px;
+    text-align: center;
+    font-family: 'Playball', cursive;
+}
+h3{
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Playball', cursive;
+}
+.title{
+    padding: 15% 5px 0 0;
+}
